@@ -1,0 +1,27 @@
+body{
+    background-color: floralwhite;
+}
+
+h1 {
+   font-family: 'Times New Roman', Times, serif;
+   background-color: darkcyan;
+   text-align: center; 
+   color: white;
+   letter-spacing: 0.1em;
+}
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: darkcyan;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: white;
+    background-color: darkcyan;
+}
+img {
+    border-radius: 10%;
+    width: 210px;
+    height: 200px;
+}
